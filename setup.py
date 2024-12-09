@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     readme = f.read()
 
 setup(
-    name='pyxml3',
+    name='matt_pyxml3',
     version='0.0.4',
     license='MIT',
     author='Andrew Scott',
